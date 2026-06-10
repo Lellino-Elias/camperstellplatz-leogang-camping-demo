@@ -54,7 +54,7 @@ const bichlhof: CampsiteConfig = {
     "Ski-in / Ski-out am Platz",
     "Strom & Wasser am Stellplatz",
     "Gratis Gästekarte inklusive",
-    "Ortszentrum in 5 Gehminuten",
+    "Ortszentrum fußläufig in rund 10 Minuten",
     "Hofeigene Milch & Bio-Eier",
   ],
 
@@ -152,7 +152,7 @@ const bichlhof: CampsiteConfig = {
       },
       {
         title: "Im Ort",
-        text: "Das Ortszentrum mit Geschäften, Bars und Restaurants erreichst du vom Platz in rund 5 Gehminuten.",
+        text: "Das Ortszentrum mit Geschäften, Bars und Restaurants erreichst du vom Platz fußläufig in rund 10 Minuten.",
       },
     ],
   },
