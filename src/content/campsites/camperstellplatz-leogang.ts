@@ -178,7 +178,7 @@ const bichlhof: CampsiteConfig = {
       "Sag uns deinen Wunschzeitraum – Familie Zehentner meldet sich persönlich und reserviert deinen Platz am Bichlhof.",
     pricesArePlaceholder: false,
     priceNote:
-      "Preis je nach Belegung zwischen € 65 und € 100 pro Nacht · An- und Abreise in der Sommer-Hauptsaison nur Mittwoch und Samstag · ggf. zzgl. Ortstaxe.",
+      "Preis je nach Belegung zwischen € 65 und € 100 pro Nacht · An- und Abreise in der Sommer-Hauptsaison nur Mittwoch und Samstag.",
     highlight: {
       title: "Gästekarte gratis",
       text: "Als Gast am Bichlhof bekommst du die Saalfelden Leogang Card mit vielen Gratis- und Vergünstigungen geschenkt.",
