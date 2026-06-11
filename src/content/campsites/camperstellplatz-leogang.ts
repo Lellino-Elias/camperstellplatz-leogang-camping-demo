@@ -17,8 +17,7 @@ const bichlhof: CampsiteConfig = {
   brandKind: "Stellplatz am Bauernhof",
   regionLong: "Region Saalfelden Leogang · Salzburger Land · Österreich",
 
-  theme: "schiefer",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Wohnmobil-Camping auf der Sonnenseite Leogangs",
   claimEmphasis: "auf der Sonnenseite",
