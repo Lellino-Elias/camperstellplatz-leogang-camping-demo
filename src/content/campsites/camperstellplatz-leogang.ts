@@ -39,7 +39,7 @@ const bichlhof: CampsiteConfig = {
     },
     {
       title: "Camping am Bauernhof",
-      text: "Übernachten mitten am Hof: frische Milchprodukte und Bio-Eier aus eigener Erzeugung, Tiere im Stall und viel freie Natur ringsum.",
+      text: "Übernachten mitten am Hof: frische hofeigene Milchprodukte und Bio-Eier aus der Region, Tiere im Stall und viel freie Natur ringsum.",
       image: { src: `${IMG}/amenity-d7f35ff7ff.webp`, alt: "Der Bauernhof Bichlhof im Winter vor den Leoganger Steinbergen" },
     },
     {
