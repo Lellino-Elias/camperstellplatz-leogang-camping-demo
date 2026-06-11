@@ -114,7 +114,7 @@ const bichlhof: CampsiteConfig = {
       {
         title: "Wandern & Gipfel",
         text: "Wanderrouten in allen Längen direkt ab dem Camper – hinauf zu Almhütten, Berggasthöfen und Gipfeln mit Weitblick.",
-        image: { src: `${IMG}/activity-7e589778b3.webp`, alt: "Wanderer am Riemannhaus in den Leoganger Steinbergen" },
+        image: { src: `${IMG}/activity-7e589778b3.webp`, alt: "Wanderer auf einem Aussichtspunkt in den Bergen rund um Leogang" },
       },
       {
         title: "Sommerrodeln am Asitz",
